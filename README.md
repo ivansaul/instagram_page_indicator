@@ -19,7 +19,7 @@ Simple Page Indicator like Instagram written for Flutter
 ## Demo
 
 <div align="center">
-<img src="demo/demo.gif">
+<img src="https://github.com/ivansaul/instagram_page_indicator/blob/master/demo/demo.gif?raw=true">
 </div>
 
 ## Usage
