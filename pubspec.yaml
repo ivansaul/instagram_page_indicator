@@ -1,10 +1,10 @@
 name: instagram_page_indicator
 description: Simple Page Indicator like Instagram written for Flutter.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/ivansaul/instagram_page_indicator
 
 environment:
-  sdk: '>=3.1.2 <4.0.0'
+  sdk: '>=2.17.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
